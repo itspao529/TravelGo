@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974059163451",
+    "project_id": "travelgo-dsm",
+    "storage_bucket": "travelgo-dsm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974059163451:android:ee12a08052f73f71b0311e",
+        "android_client_info": {
+          "package_name": "com.udb.travelgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974059163451-kq1co7cvg2rhala0tf5vsmudr0si1qnd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgAfFmIye_USW76LJq1X2CHV0R7s50WAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974059163451-kq1co7cvg2rhala0tf5vsmudr0si1qnd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
