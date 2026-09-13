@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TravelGo</string>
+
+    <!-- Login -->
+    <string name="login_title">Welcome back</string>
+    <string name="login_subtitle">Sign in to manage your destinations</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="txt_no_account">Don\'t have an account? Register</string>
+    <string name="error_empty_email">Email is required</string>
+    <string name="error_empty_password">Password is required</string>
+    <string name="error_login_failed">Could not log in: %1$s</string>
+
+    <!-- Register -->
+    <string name="register_title">Create account</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="btn_register">Register</string>
+    <string name="txt_have_account">Already have an account? Log in</string>
+    <string name="error_short_password">Password must be at least 6 characters</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+    <string name="error_register_failed">Could not register: %1$s</string>
+    <string name="success_register">Account created successfully</string>
+
+    <!-- Catalog -->
+    <string name="catalog_title">Travel Destinations</string>
+    <string name="action_logout">Log out</string>
+    <string name="empty_catalog">No destinations yet.\nTap + to add your first one.</string>
+    <string name="cd_add_destination">Add destination</string>
+    <string name="cd_edit">Edit</string>
+    <string name="cd_delete">Delete</string>
+    <string name="dialog_delete_title">Delete destination</string>
+    <string name="dialog_delete_message">Are you sure you want to delete \"%1$s\"? This action cannot be undone.</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_delete_confirm">Delete</string>
+    <string name="msg_deleted">Destination deleted</string>
+    <string name="error_delete_failed">Could not delete destination: %1$s</string>
+    <string name="error_load_failed">Could not load destinations: %1$s</string>
+
+    <!-- Add / Edit -->
+    <string name="title_add_destination">New Destination</string>
+    <string name="title_edit_destination">Edit Destination</string>
+    <string name="hint_name">Destination name</string>
+    <string name="hint_country">Country</string>
+    <string name="hint_price">Package price (USD)</string>
+    <string name="hint_description">Trip description</string>
+    <string name="btn_select_image">Select image from gallery</string>
+    <string name="btn_save">Save</string>
+    <string name="cd_destination_image">Destination image</string>
+
+    <string name="error_empty_name">Destination name is required</string>
+    <string name="error_empty_country">Please select a country</string>
+    <string name="error_empty_price">Price is required</string>
+    <string name="error_invalid_price">Enter a valid number</string>
+    <string name="error_price_positive">Price must be greater than 0</string>
+    <string name="error_empty_description">Description is required</string>
+    <string name="error_short_description">Description must be at least 20 characters</string>
+    <string name="error_no_image">Please select an image for the destination</string>
+    <string name="error_save_failed">Could not save destination: %1$s</string>
+    <string name="error_upload_failed">Could not upload image: %1$s</string>
+    <string name="msg_saved">Destination saved successfully</string>
+
+    <string name="price_format">$%.2f</string>
+
+    <string-array name="countries_array">
+        <item>Select a country</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>Costa Rica</item>
+        <item>Mexico</item>
+        <item>Spain</item>
+        <item>Italy</item>
+        <item>France</item>
+        <item>Japan</item>
+        <item>Thailand</item>
+        <item>United States</item>
+        <item>Brazil</item>
+        <item>Argentina</item>
+        <item>Peru</item>
+        <item>Colombia</item>
+    </string-array>
+</resources>
