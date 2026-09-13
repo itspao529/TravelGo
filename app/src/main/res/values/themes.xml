@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.TravelGo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:fontFamily">@font/fredoka_medium</item>
+        <item name="fontFamily">@font/fredoka_medium</item>
+    </style>
+
+    <style name="Theme.TravelGo" parent="Base.Theme.TravelGo" />
+
+    <style name="Theme.TravelGo.Toolbar" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+</resources>

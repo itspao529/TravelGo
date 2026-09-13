@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta "Atardecer Tropical" -->
+    <color name="primary">#0E6E6E</color>
+    <color name="primary_dark">#084F4F</color>
+    <color name="primary_light">#D6EDEA</color>
+    <color name="accent">#FF6F59</color>
+    <color name="accent_dark">#E5533D</color>
+
+    <color name="background">#FFFBF5</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1B3A3A</color>
+    <color name="text_secondary">#6E8B8B</color>
+    <color name="error">#D6336C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>
